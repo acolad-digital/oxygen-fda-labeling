@@ -7,10 +7,10 @@ This framework contains material downloaded from https://www.fda.gov/industry/fd
 ## How to start
 
 - [ ] Install oXygenXML **Author** (evaluation version can be downloaded on [www.oxygenxml.com](https://www.oxygenxml.com/xml_author.html))
-- [ ] Install the oXygen FDA labeling framework by downloading the ZIP content https://github.com/Amplexor/oxygen-fda-labeling/archive/master.zip or by cloning the current Github project `git clone https://github.com/Amplexor/oxygen-fda-labeling.git` 
+- [ ] Install the oXygen FDA labeling framework by downloading the ZIP content https://github.com/acolad-digital/oxygen-fda-labeling/archive/master.zip or by cloning the current Github project `git clone https://github.com/acolad-digital/oxygen-fda-labeling.git` 
 
 
-This framework is provided to you by [AMPLEXOR](https://www.amplexor.com).
+This framework is provided to you by [Acolad Digital](https://www.acolad.com/en/digital.html).
 
 
 # Limitations
@@ -22,11 +22,11 @@ This framework currently supports **authoring** for a partial subset of the sche
 
 ## Warranty
 
-No warranty of any kind is provided. You can however open issues in the [FDA labeling GitHub project](https://github.com/Amplexor/oxygen-fda-labeling/issues) to report errors, suggest enhancements or evolutions, ask questions.
+No warranty of any kind is provided. You can however open issues in the [FDA labeling GitHub project](https://github.com/acolad-digital/oxygen-fda-labeling/issues) to report errors, suggest enhancements or evolutions, ask questions.
 
 # Copyright and licence
 
-Copyright (C) 2018-2019 AMPLEXOR
+Copyright (C) 2022-2023 Acolad Digital
 
 This project is licensed under [Apache License 2.0](LICENSE.txt)
 
